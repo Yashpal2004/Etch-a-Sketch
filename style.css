@@ -1,0 +1,17 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+#grid {
+    border: 5px solid #722b2b ;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid-element {
+    border: 1px solid;
+    width: 50px;
+    height: 50px;
+}
